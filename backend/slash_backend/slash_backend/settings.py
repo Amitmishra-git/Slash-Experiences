@@ -1,0 +1,9 @@
+# ...existing code...
+INSTALLED_APPS = [
+    # ...existing apps...
+    'rest_framework',
+    'experiences',
+    'users',
+    'chat',
+]
+# ...existing code...
