@@ -6,4 +6,6 @@ INSTALLED_APPS = [
     'users',
     'chat',
 ]
+
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 # ...existing code...
